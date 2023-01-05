@@ -1,0 +1,17 @@
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\bin\Debug\net6.0\MeuLivroDeReceitas.Exceptions.deps.json
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\bin\Debug\net6.0\MeuLivroDeReceitas.Exceptions.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\bin\Debug\net6.0\MeuLivroDeReceitas.Exceptions.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\bin\Debug\net6.0\en\MeuLivroDeReceitas.Exceptions.resources.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.ResourceMensagensDeErro.resources
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.ResourceMensagensDeErro.en.resources
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.csproj.GenerateResource.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.AssemblyInfo.cs
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\en\MeuLivroDeReceitas.Exceptions.resources.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\refint\MeuLivroDeReceitas.Exceptions.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\MeuLivroDeReceitas.Exceptions.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Exceptions\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Exceptions.dll

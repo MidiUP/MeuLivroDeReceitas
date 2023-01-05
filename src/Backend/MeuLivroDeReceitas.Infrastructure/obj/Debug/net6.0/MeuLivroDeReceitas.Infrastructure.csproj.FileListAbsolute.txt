@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\bin\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.deps.json
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\bin\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\bin\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.AssemblyInfo.cs
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\refint\MeuLivroDeReceitas.Infrastructure.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Infrastructure.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Infrastructure\obj\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.csproj.CopyComplete

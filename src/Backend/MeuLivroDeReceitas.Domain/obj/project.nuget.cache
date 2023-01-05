@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nwtj1SVGMarXV3rCvHnjUD4+oYKndvzrh46dwr65653cH2fGIrGdH5JaxfOwIsorVh2sC1/D729YC9G8XBjQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateu\\Documents\\dev\\MeuLivroDeReceitas\\src\\Backend\\MeuLivroDeReceitas.Domain\\MeuLivroDeReceitas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\mateu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

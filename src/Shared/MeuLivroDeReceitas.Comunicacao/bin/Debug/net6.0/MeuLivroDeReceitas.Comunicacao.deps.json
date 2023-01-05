@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MeuLivroDeReceitas.Comunicacao/1.0.0": {
+        "runtime": {
+          "MeuLivroDeReceitas.Comunicacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeuLivroDeReceitas.Comunicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "652265fa-bbe1-4687-9dda-51bfeadfb334",
+		"name": "MeuLivroDeReceitasRequest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23914076"
+	},
+	"item": [
+		{
+			"name": "Registrar usuário",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"//86 9 9808-0092\r",
+							"\r",
+							"const ddd = _.random(10, 99);\r",
+							"const numeroAdicional = _.random(1, 9);\r",
+							"const numeroTelefone = `${ddd} ${numeroAdicional} ${_.random(1111, 9999)}-${_.random(1111, 9999)}`;\r",
+							"pm.environment.set(\"numeroTelefone\", numeroTelefone);"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Validar se a requisição foi feita com sucesso\", () => {\r",
+							"    pm.response.to.have.status(201);\r",
+							"})\r",
+							"\r",
+							"pm.test(\"Validar se a requisição retornou um token\", () => {\r",
+							"    pm.response.to.have.jsonBody('token');\r",
+							"})"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nome\": \"{{$randomFullName}}\",\r\n  \"email\": \"{{$randomEmail}}\",\r\n  \"senha\": \"{{$randomPassword}}\",\r\n  \"telefone\": \"{{numeroTelefone}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URLBASE}}/usuario",
+					"host": [
+						"{{URLBASE}}"
+					],
+					"path": [
+						"usuario"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "URLBASE",
+			"value": "https://localhost:7164",
+			"type": "string"
+		},
+		{
+			"key": "numeroTelefone",
+			"value": "",
+			"type": "string",
+			"disabled": true
+		}
+	]
+}

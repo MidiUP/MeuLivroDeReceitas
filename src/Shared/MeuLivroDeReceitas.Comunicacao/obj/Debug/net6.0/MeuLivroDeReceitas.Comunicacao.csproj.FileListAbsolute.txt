@@ -1,0 +1,12 @@
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\bin\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.deps.json
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\bin\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\bin\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.AssemblyInfo.cs
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\refint\MeuLivroDeReceitas.Comunicacao.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\MeuLivroDeReceitas.Comunicacao.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Shared\MeuLivroDeReceitas.Comunicacao\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Comunicacao.dll

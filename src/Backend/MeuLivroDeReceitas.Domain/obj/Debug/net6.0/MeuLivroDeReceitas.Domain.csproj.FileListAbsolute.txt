@@ -1,0 +1,12 @@
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.deps.json
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.AssemblyInfo.cs
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\refint\MeuLivroDeReceitas.Domain.dll
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Users\mateu\Documents\dev\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Domain.dll
